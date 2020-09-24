@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Fetch Mobile Application</string>
+    <string name="item_id_placeholder">Item ID</string>
+    <string name="item_list_id_placeholder">Item List id</string>
+    <string name="item_name_placeholder">Item Name</string>
+    <string name="list_placeholder_list_id">List ID</string>
+</resources>
